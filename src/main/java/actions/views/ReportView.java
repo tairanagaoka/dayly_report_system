@@ -32,5 +32,8 @@ public class ReportView {
 
     private LocalDateTime updatedAt;
 
+    private String timeIn;
+
+    private String timeOut;
 
 }
